@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 Hello, I'm Ilman
 
-<!--
-**Abiguelreyes75/Abiguelreyes75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](elaina.jpg) <br />
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/wakaba.hiiro)
 
-Here are some ideas to get you started:
+### ℹ &nbsp;Personal Stuffs
+- 💻 I'm currently studying `Math` 🚀.
+- 🔭 I'm currently working on my side project.
+- Learning Language(s): &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+  ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=blue)
+
+- Frameworks: &nbsp;
+
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+### ⚙ &nbsp;GitHub Analytics
+
+---
+
+[![Ilmanhdyt GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmanhdyt&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Ilmanhdyt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilmanhdyt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
