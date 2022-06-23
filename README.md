@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ilman
 
 ![Banner](elaina.jpg) <br />
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/wakaba.hiiro)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abiguelreyes75/)
 
 ### ℹ &nbsp;Personal Stuffs
 - 💻 I'm currently studying `Math` 🚀.
